@@ -12,4 +12,19 @@ public class BeerServiceImpl implements BeerService {
         return BeerDto.builder().id(UUID.randomUUID()).beerName("Azuga").beerStyle("classic").build();
     }
 
+    @Override
+    public BeerDto createBeer(BeerDto beerDto) {
+        // todo: to implement later
+        return beerDto;
+    }
+
+    @Override
+    public void updateBeer(UUID beerId, BeerDto beerDto) {
+        // todo: to implement later
+    }
+
+    @Override
+    public void deleteBeerById(UUID beerId) {
+        // todo: to implement later
+    }
 }
