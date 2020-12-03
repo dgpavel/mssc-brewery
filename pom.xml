@@ -10,10 +10,10 @@
     </parent>
 
     <groupId>ro.dma.learn</groupId>
-    <artifactId>sbm-beer</artifactId>
+    <artifactId>mssc-brewery</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
-    <name>sbm-beer</name>
+    <name>mssc-brewery</name>
     <description>Spring Boot Microservices</description>
 
     <properties>
