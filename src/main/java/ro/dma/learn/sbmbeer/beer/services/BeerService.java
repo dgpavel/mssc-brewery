@@ -1,4 +1,6 @@
-package ro.dma.learn.sbmbeer.beer;
+package ro.dma.learn.sbmbeer.beer.services;
+
+import ro.dma.learn.sbmbeer.beer.web.BeerDto;
 
 import java.util.UUID;
 

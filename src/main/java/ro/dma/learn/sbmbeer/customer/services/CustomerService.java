@@ -1,4 +1,6 @@
-package ro.dma.learn.sbmbeer.customer;
+package ro.dma.learn.sbmbeer.customer.services;
+
+import ro.dma.learn.sbmbeer.customer.web.CustomerDto;
 
 import java.util.UUID;
 
