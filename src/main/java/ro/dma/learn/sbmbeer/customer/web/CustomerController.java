@@ -11,6 +11,8 @@ import ro.dma.learn.sbmbeer.customer.services.CustomerService;
 
 import javax.validation.Valid;
 
+import javax.validation.Valid;
+
 @RequestMapping("/api/v1/customers")
 @RestController
 public class CustomerController {
